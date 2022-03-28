@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(223, 170, 101);
+}
+#container{
+     display: flex;
+
+}
+.box{
+    width: 200px;
+    height: 150px;
+    border: 2px solid red;
+    margin: 20px;
+}
